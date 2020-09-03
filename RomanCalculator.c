@@ -15,6 +15,7 @@ int main(){
 	printf("The second number is %d\n", num2);
 	printf("Enter the desired arithmetic operation:\n");
 	arithmeticOperation(num1, num2);
+	system("pause");
 	return 0;
 	
 }
